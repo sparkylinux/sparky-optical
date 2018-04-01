@@ -1,7 +1,7 @@
 Sparky Optical
 This tool helps mounting, unmounting and ejecting optical disks via panel's tray icon
 
-Copyright (C) 2014-2017 Paweł Pijanowski
+Copyright (C) 2014-2018 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -18,8 +18,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Dependencies:
 -------------
-sparky-remsu
-udisks
+eject
+menu
+udisks2
 yad
 
 Install:
